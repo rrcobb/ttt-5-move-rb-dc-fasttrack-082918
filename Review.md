@@ -43,6 +43,9 @@ end
 
 - loops
 
+times
+while
+each
 
 
 
