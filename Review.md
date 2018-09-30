@@ -34,7 +34,7 @@ Now, run your program by typing `ruby bin/move` in the terminal. Have fun playin
 
 - conditionals
 def even_or_odd(num)
-um.even?   if n
+   if num.even?
      puts "The number is even"
    else
      puts "The number is odd"
@@ -42,6 +42,8 @@ um.even?   if n
 end
 
 - loops
+
+
 
 
 
