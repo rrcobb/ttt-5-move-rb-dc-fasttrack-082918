@@ -45,7 +45,7 @@ end
 
 times
 while
-each
+each - do something for each element in an array
 
 
 
