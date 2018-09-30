@@ -47,6 +47,11 @@ times
 while
 each - do something for each element in an array
 
+numbers = [5, 14, 92, 90, 103]
+numbers.each do |num|
+  puts "num is #{num}"
+  puts "num squared is #{num * num}"
+end
 
 
 
