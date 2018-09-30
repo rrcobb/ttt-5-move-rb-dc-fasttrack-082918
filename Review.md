@@ -1,6 +1,5 @@
 # Review from yesterday
 
-- program
 - variables
 - data types
 - methods
