@@ -9,6 +9,3 @@ end
 # code your input_to_index and move method here!
 def input_to_index
 end
-
-# run the method
-input_to_index
