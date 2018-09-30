@@ -33,6 +33,13 @@ Now, run your program by typing `ruby bin/move` in the terminal. Have fun playin
 - arrays
 
 - conditionals
+def even_or_odd(num)
+   if num.even?
+     puts "The number is even"
+   else
+       puts "The number is odd"
+   end
+end
 - loops
 
 
