@@ -37,9 +37,10 @@ def even_or_odd(num)
    if num.even?
      puts "The number is even"
    else
-       puts "The number is odd"
+     puts "The number is odd"
    end
 end
+
 - loops
 
 
