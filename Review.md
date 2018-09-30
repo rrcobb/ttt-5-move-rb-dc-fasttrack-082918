@@ -31,6 +31,7 @@ Now, run your program by typing `ruby bin/move` in the terminal. Have fun playin
 - data types
 - methods
 - arrays
+
 - conditionals
 - loops
 
