@@ -13,4 +13,6 @@ end
 
 def move(board, index, character = "X")
   puts "the board is: #{board}"
+  puts "the index is #{index}"
+  puts "the character is #{character}"
 end
